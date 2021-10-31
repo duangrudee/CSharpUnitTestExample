@@ -1,0 +1,15 @@
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/MyApp.deps.json
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.json
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/MyApp.runtimeconfig.dev.json
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/MyApp.dll
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/ref/MyApp.dll
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/bin/Debug/net5.0/MyApp.pdb
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.csprojAssemblyReference.cache
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfoInputs.cache
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.AssemblyInfo.cs
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.dll
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/ref/MyApp.dll
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.pdb
+/Users/aing_d/Documents/My Projects/github/unit-test-example/CSharpUnitTestExample/refactor-with-di-interface/MyApp/obj/Debug/net5.0/MyApp.genruntimeconfig.cache
